@@ -56,8 +56,4 @@ class HomeScreen extends StatelessWidget {
 
 ## Rendering
 
-<div style="width: 60%; height: 60%">
-
-![Settings Screen](./example/assets/capture-1.png)
-
-</div>
+<img src="./example/assets/capture-1.png" width="320px" />
