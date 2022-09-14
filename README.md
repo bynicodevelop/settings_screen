@@ -56,4 +56,4 @@ class HomeScreen extends StatelessWidget {
 
 ## Rendering
 
-<img src="./example/assets/capture-1.png" width="320px" />
+<img src="https://github.com/bynicodevelop/settings_screen/blob/16ea7af5fa4692073887ac5fee426dd788af8ebe/example/assets/capture-1.png" width="320px" />
