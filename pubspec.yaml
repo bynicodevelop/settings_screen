@@ -1,6 +1,6 @@
 name: settings_screen
 description: A new plugin created with the Mason CLI.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/bynicodevelop/settings_screen
 
 environment:
