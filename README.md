@@ -54,4 +54,6 @@ class HomeScreen extends StatelessWidget {
 }
 ```
 
+## Rendering
 
+![Settings Screen](./example/assets/capture-1.png)
