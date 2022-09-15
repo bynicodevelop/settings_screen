@@ -13,3 +13,7 @@
 ## 0.0.4
 
 * Update README.md (update screenshot)
+
+## 0.0.5
+
+* Fixed bug on the leading icon option

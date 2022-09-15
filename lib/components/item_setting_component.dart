@@ -25,10 +25,12 @@ class ItemSettingComponent extends StatelessWidget {
       trailing: Icon(
         trailingIcon ?? Icons.arrow_forward_ios,
       ),
-      leading: SizedBox(
-        height: double.infinity,
-        child: leadingIcon != null ? Icon(leadingIcon) : null,
-      ),
+      leading: leadingIcon != null
+          ? SizedBox(
+              height: double.infinity,
+              child: Icon(leadingIcon),
+            )
+          : null,
     );
   }
 }
